@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<address-book>
+    <address>
+        <building>10</building>
+        <city type="big">
+            <name>Kiev</name>
+        </city>
+        <street>Shevchenko str</street>
+    </address>
+    <address>
+        <building>5</building>
+        <city type="big">
+            <name>Kiev</name>
+        </city>
+        <street>Nezalezhnosti str</street>
+    </address>
+</address-book>
